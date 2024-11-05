@@ -1,0 +1,18 @@
+id;total_purchase;third_party_purchase_id;sub_third_party_doc_type;sub_third_party_doc_num;sub_third_party_name;user_commission_value;third_party_commission_value;created_at;updated_at;status;enterprise_name;commercial_name;document_type;document_number
+c8307986-ad79-4cd7-a62a-ba55f1dbc373;100000;123455;NIT;987654321;Subcomercio prueba;3260;4608;24:18.6;27:12.2;COMPLETADO;Prueba SAS;Prueba;NIT;123456789
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
